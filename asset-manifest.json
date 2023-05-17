@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EdYodaa/static/css/main.6ff00948.css",
+    "main.js": "/EdYodaa/static/js/main.2e2de920.js",
+    "static/js/787.142da1d4.chunk.js": "/EdYodaa/static/js/787.142da1d4.chunk.js",
+    "static/media/picture3.jpg": "/EdYodaa/static/media/picture3.27d06baf82e902650efc.jpg",
+    "index.html": "/EdYodaa/index.html",
+    "main.6ff00948.css.map": "/EdYodaa/static/css/main.6ff00948.css.map",
+    "main.2e2de920.js.map": "/EdYodaa/static/js/main.2e2de920.js.map",
+    "787.142da1d4.chunk.js.map": "/EdYodaa/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff00948.css",
+    "static/js/main.2e2de920.js"
+  ]
+}
